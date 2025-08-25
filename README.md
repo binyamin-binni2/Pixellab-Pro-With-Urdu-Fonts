@@ -9,7 +9,7 @@
 ## 📥 Download
 
 <p align="center">
-  <a href="https://github.com/binyamin-binni2/Pixellab-Pro-With-Urdu-Fonts/releases/download/Pixellab_Pro/Pixellab_Pro.apk">
+  <a href="https://github.com/binyamin-binni2/Pixellab-Pro-With-Urdu-Fonts/releases/download/Pixellab-Pro/Pixellab_Pro.apk">
     <img src="https://img.shields.io/badge/Download-APK-blueviolet?style=for-the-badge&logo=android" alt="Download Pixellab Pro APK">
   </a>
 </p>
